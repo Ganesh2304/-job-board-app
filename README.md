@@ -1,20 +1,22 @@
 # job board app
 
-Names:
+Names:Danda Maruthi Venkata Ganesh
+      Sukesh Goud kootikanti
+      Rakesh Ubbana
     
 
 # OverView
-        This app is about 
+        In this project, we will create a Job Board App with React Native. The Job Board App is a simple application that displays a list of job openings in any field. It benefits students and anyone looking for work in the market. It assists with job searches and provides detailed information about application procedures, among other things.This app is about 
 
 # Video Link
         Place video link here
 
 # Output screenshots of working app
-    first screebshot
+    This is the landing page of the app
 
 ![WhatsApp Image 2024-04-21 at 10 08 41 AM](https://github.com/Ganesh2304/-job-board-app/assets/76558315/56d75204-0971-4387-b3d9-27e4710816f5) 
 
-    Second screebshot
+  Home page of the app where we have a list of job openings with some search fields with name of the company,Role and Location 
 
 ![WhatsApp Image 2024-04-21 at 10 08 41 AM](https://github.com/Ganesh2304/-job-board-app/assets/76558315/e7493368-be4b-48f8-92f8-be334bf76fac)
 
