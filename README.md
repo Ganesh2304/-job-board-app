@@ -1,7 +1,7 @@
 # job board app
 
-Names:Danda Maruthi Venkata Ganesh
-      Sukesh Goud kootikanti
+Names:Danda Maruthi Venkata Ganesh,
+      Sukesh Goud kootikanti,
       Rakesh Ubbana
     
 
